@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Stackoverflow Client</string>
+    <string name="et_question_hint">Enter the question here and click Search!</string>
+    <string name="error">Something is going wrong! Try again please</string>
+    <string name="search">Search</string>
+    <string name="tv_enter_question">Enter the question bellow</string>
+    <string name="avatar_description">Userpic</string>
+    <string name="tv_example_question_item">Here will be the question! ;kfvs;lhfvl;sndflvndsf ;kfvs;lhfvl;sndflvndsf ;kfvs;lhfvl;sndflvndsf ;kfvs;lhfvl;sndflvndsf ;kfvs;lhfvl;sndflvndsf ;kfvs;lhfvl;sndflvndsf;kfvs;lhfvl;sndflvndsf;kfvs;lhfvl;sndflvndsf;kfvs;lhfvl;sndflvndsf;kfvs;lhfvl;sndflvndsf;kfvs;lhfvl;sndflvndsf;kfvs;lhfvl;sndflvndsf;kfvs;lhfvl;sndflvndsf</string>
+    <string name="tv_example_date_item">11.10.2019</string>
+    <string name="tv_example_counter_item">12356</string>
+    <string name="tv_example_name_item">Alex Names</string>
+    <string name="tv_asked_detail">Asked</string>
+    <string name="tv_answers_count_text_item">Answers</string>
+    <string name="tv_example_answer_item">Here will be answer</string>
+    <string name="tv_score_text_item">Score</string>
+    <string name="tv_example_score">5</string>
+    <string name="tv_date_answer_text_item">Answered</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
